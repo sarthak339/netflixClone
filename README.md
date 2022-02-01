@@ -4,6 +4,6 @@
 #### Access link : https://sarthak339.github.io/netflixClone/
 ---
 ## Preview 
-![](https://sarthak339.github.io/netflixClone/blob/master/public/Preview.png) 
+![](https://github.com/sarthak339/netflixClone/blob/master/public/Preview.png) 
 
 
